@@ -2,6 +2,7 @@
 # Shamim
 [![Email](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shamim@outlook.jp)
 ![Profile views](https://gpvc.arturio.dev/sh-bd)
+![Contributions this year](https://img.shields.io/github/contributors/sh-bd/github-readme-stats)
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-bd&count_private=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
