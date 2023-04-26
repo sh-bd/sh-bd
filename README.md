@@ -1,10 +1,10 @@
 ### Hi there 👋
 # Shamim
 [![Email](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shamim@outlook.jp)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sh4mim)
 ![Profile views](https://gpvc.arturio.dev/sh-bd)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=sh-bd&theme=dracula&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-bd&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh-bd&theme=dracula&layout=compact&hide_border=true)
 
 <!--
