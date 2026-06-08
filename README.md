@@ -1,21 +1,14 @@
 ### Hi there 👋
 # Shamim
 [![Email](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shamim@outlook.jp)
-![Profile views](https://gpvc.arturio.dev/sh-bd)
+![Profile views](https://komarev.com/ghpvc/?username=sh-bd&color=blue)
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-bd&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/sh-bd/github-readme-stats)
-
-<!--
-**sh-bd/sh-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Aspiring **MSc/PhD Candidate**
+- 🧠 Research interests: **Explainable AI**, Biomedical Engineering, Computer Vision, AI Applications in Healthcare
+- 👯 Open to collaborating on **AI/ML research** and **full-stack projects**
+- 💬 Ask me about **XAI**, **MERN stack**, **SwiftUI/AppKit**, or **deep learning**
+- 📫 Reach me at: [shamim@outlook.jp](mailto:shamim@outlook.jp)
+- 🌍 Based in **Rajshahi, Bangladesh**
+- ⚡ Fun fact: My undergraduate thesis classified ovarian cancer subtypes with **95.85% validation accuracy** on 34,000+ histopathology images
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sh-bd&theme=default&hide_border=true)](https://git.io/streak-stats)
